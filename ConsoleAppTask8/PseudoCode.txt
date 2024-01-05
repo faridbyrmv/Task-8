@@ -1,1 +1,62 @@
-﻿
+//Verilmiş ədədin tək və ya cüt ədəd olduğunu yoxla
+
+if number % 2 = 0 
+   Print "Eded cutdur"
+Else
+   Print "Eded tekdir"
+End Algorithm
+
+
+//2 ədəd verilib. Əgər birinci ədəd ikinci ədədə tam bölünürsə o zaman cavabı çapa vermək. 
+Əks halda "Bölünmür" sözünü çap etmək
+if firstNumber % secondNumber = 0
+   Print "Bolunur"
+else 
+   Print "Bolunmur"
+End Algorithm
+
+
+//Verilmiş ədədin sonuncu rəqəmi 7 ilə qurtarırmı? Bəli və Xeyr cavabını ekrana çap etmək
+lastDigit = number % 10
+
+if lastDigit = 7
+   Print "Beli"
+else 
+   Print "Xeyr"
+End Algorithm
+
+
+//Verilmiş  2 rəqəmli ədədin rəqəmləri eynidirmi? Bəli və Xeyr cavabını ekrana çap etmək
+
+tensDigit = (number / 10) % 10
+
+unitDigit = number % 10
+
+if tensDigit = unitsDigit
+   Print "Beli"
+else 
+   Print "Xeyr"
+End Algorithm
+
+
+//Verilmiş 2 rəqəmli ədədin rəqəmləri cəmi cüt ədəddirsə o zaman 
+həmin ikirəqəmli ədədin rəqəmlərinin hasilini ekranda çap etmək. 
+Əks halda "ədəddə tək rəqəm mövcuddur" mətnini ekrana çap etmək.
+
+sum = 0 
+product = 1
+
+while number > 0
+    digit = number % 10
+
+    sum = sum + digit
+    product = product * digit
+    number = number / 10
+
+End while
+
+if sum % 2 = 0
+   Print "Product of Digits: " + product
+else 
+   Print "Ededde tek reqem movcuddur"
+End Algorithm
