@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\bin\Debug\net7.0\ConsoleAppTask8.exe
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\bin\Debug\net7.0\ConsoleAppTask8.deps.json
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\bin\Debug\net7.0\ConsoleAppTask8.runtimeconfig.json
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\bin\Debug\net7.0\ConsoleAppTask8.dll
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\bin\Debug\net7.0\ConsoleAppTask8.pdb
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\obj\Debug\net7.0\ConsoleAppTask8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\obj\Debug\net7.0\ConsoleAppTask8.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\obj\Debug\net7.0\ConsoleAppTask8.AssemblyInfo.cs
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\obj\Debug\net7.0\ConsoleAppTask8.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\obj\Debug\net7.0\ConsoleAppTask8.dll
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\obj\Debug\net7.0\refint\ConsoleAppTask8.dll
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\obj\Debug\net7.0\ConsoleAppTask8.pdb
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\obj\Debug\net7.0\ConsoleAppTask8.genruntimeconfig.cache
+C:\Users\PC\Desktop\8\ConsoleAppTask8\ConsoleAppTask8\obj\Debug\net7.0\ref\ConsoleAppTask8.dll
