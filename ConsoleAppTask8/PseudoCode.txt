@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿//Verilmiş ədədin tək və ya cüt ədəd olduğunu yoxla
+=======
+//Verilmiş ədədin tək və ya cüt ədəd olduğunu yoxla
+>>>>>>> f27248525a2c250539fd9f11bb91b7d1a7e692fa
 
 if number % 2 = 0 
    Print "Eded cutdur"
@@ -59,4 +63,8 @@ if sum % 2 = 0
    Print "Product of Digits: " + product
 else 
    Print "Ededde tek reqem movcuddur"
+<<<<<<< HEAD
 End Algorithm
+=======
+End Algorithm
+>>>>>>> f27248525a2c250539fd9f11bb91b7d1a7e692fa
